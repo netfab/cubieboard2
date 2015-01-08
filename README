@@ -1,0 +1,8 @@
+
+Linux Kernel
+============
+
+ 3.4.105
+ -------
+ $ git clone --depth=1 --branch dan-3.4.105 https://github.com/dan-and/linux-sunxi.git linux-sunxi-3.4.105
+
