@@ -18,4 +18,5 @@ www-apps/tt-rss daemon
 www-apps/piwigo imagemagick
 
 dev-vcs/git -gpg
+sys-apps/iproute2 -iptables
 
