@@ -1,0 +1,22 @@
+
+=net-libs/libnfsidmap-0.25 # bug 494770
+# =net-fs/nfs-utils-1.2.9
+
+=sys-libs/gdbm-1.10-r1 # bug 494534
+
+# =media-video/motion-9999 **
+# =media-video/motion-3.2.12-r2 ~arm
+# =media-tv/v4l-utils-0.8.9 **
+
+sys-power/apcupsd ~arm
+
+=www-apps/tt-rss-1.13 **
+=www-apps/piwigo-2.7.2 **
+
+# -
+# apache segfault - gentoo bug #525222
+# --
+# =app-admin/apache-tools-2.4.10 ~arm
+# =www-servers/apache-2.4.10-r1 ~arm
+# =dev-libs/apr-1.5.1-r1 ~arm
+
