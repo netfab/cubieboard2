@@ -5,8 +5,8 @@
 
 sys-power/apcupsd ~arm
 
-=www-apps/tt-rss-1.13 **
-=www-apps/piwigo-2.7.2 **
+www-apps/tt-rss **
+www-apps/piwigo **
 
 # -
 # apache segfault - gentoo bug #525222
