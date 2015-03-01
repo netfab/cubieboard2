@@ -3,6 +3,8 @@
 # =media-video/motion-3.2.12-r2 ~arm
 # =media-tv/v4l-utils-0.8.9 **
 
+=media-video/mjpg-streamer-0_pre20120621 **
+
 sys-power/apcupsd ~arm
 
 www-apps/tt-rss **

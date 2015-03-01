@@ -2,6 +2,8 @@
 #media-video/motion ffmpeg v4l
 #media-video/ffmpeg libv4l v4l
 
+media-video/mjpg-streamer v4l input_uvc
+
 # The following REQUIRED_USE flag constraints are unsatisfied:
 #    berkdb? ( dlz )
 net-dns/bind dlz -mysql
