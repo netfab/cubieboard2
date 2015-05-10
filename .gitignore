@@ -3,3 +3,4 @@ bin
 make.profile
 postsync.d
 savedconfig
+repo.postsync.d
