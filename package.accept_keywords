@@ -17,3 +17,11 @@ www-apps/piwigo **
 # =www-servers/apache-2.4.10-r1 ~arm
 # =dev-libs/apr-1.5.1-r1 ~arm
 
+=dev-embedded/u-boot-tools-2015.04 ~arm
+=sys-boot/u-boot-mainline-2015.04 ~arm
+
+=x11-drivers/xf86-video-fbturbo-9999 **
+=x11-libs/libdri2-9999 **
+=x11-libs/sunxi-mali-9999 **
+=x11-libs/sunxi-libump-9999 **
+
