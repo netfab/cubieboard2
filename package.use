@@ -24,11 +24,11 @@ sys-apps/iproute2 -iptables
 
 sys-boot/u-boot-mainline sunxi_board_cubieboard2
 
-# uneeded gnome deps
+# unneeded gnome deps
 gnome-base/gvfs -http
 
 # into make.conf
-# x11-drivers/xf86-video-fbturbo gles1 gles2
+x11-drivers/xf86-video-fbturbo mali-r3p2
 # media-libs/mesa gles1 gles2
 
 # required by virtual/libgudev-215-r3::gentoo[-systemd]
