@@ -41,3 +41,7 @@ sys-fs/udev gudev
 
 # www-client/dillo
 x11-libs/fltk -xinerama pdf
+
+media-video/mplayer vdpau
+media-video/ffmpeg vdpau
+

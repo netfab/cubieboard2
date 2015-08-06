@@ -3,6 +3,7 @@ x11-base/xorg-server
 xfce-base/xfce4-meta
 x11-terms/xfce4-terminal
 www-client/dillo
+media-video/mplayer
 media-gfx/ristretto
 app-office/orage
 xfce-extra/xfce4-cpugraph-plugin
@@ -13,3 +14,5 @@ xfce-extra/xfce4-screenshooter
 xfce-extra/xfce4-systemload-plugin
 xfce-extra/xfce4-cpufreq-plugin
 xfce-extra/xfce4-sensors-plugin
+
+x11-libs/libvdpau-sunxi

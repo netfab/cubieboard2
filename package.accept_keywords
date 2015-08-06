@@ -25,6 +25,10 @@ www-apps/piwigo **
 =x11-libs/sunxi-mali-9999 **
 =x11-libs/sunxi-libump-9999 **
 
+=x11-libs/libvdpau-0.9 **
+=x11-libs/libvdpau-sunxi-9999 **
+=x11-misc/vdpauinfo-0.9-r1 **
+
 =media-gfx/ristretto-0.8.0-r1 **
 =xfce-extra/xfce4-sensors-plugin-1.2.6 **
 =xfce-extra/xfce4-cpufreq-plugin-1.1.2 ~arm
