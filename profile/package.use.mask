@@ -1,3 +1,7 @@
 
 media-video/mplayer -vdpau
 media-video/ffmpeg -vdpau
+
+dev-qt/qtchooser -qt5
+dev-qt/qtlockedfile -qt5
+dev-qt/qtsingleapplication -qt5

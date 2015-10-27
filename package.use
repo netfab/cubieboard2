@@ -42,6 +42,10 @@ sys-fs/udev gudev
 # www-client/dillo
 x11-libs/fltk -xinerama pdf
 
-media-video/mplayer vdpau
+media-video/mplayer dts enca libass mad opengl osdmenu theora vdpau x264 xvid
 media-video/ffmpeg vdpau
+
+# required by smplayer[qt5] deps ...
+x11-libs/libxcb xkb
+dev-libs/libpcre pcre16
 

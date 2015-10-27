@@ -33,3 +33,7 @@ www-apps/piwigo **
 =xfce-extra/xfce4-sensors-plugin-1.2.6 **
 =xfce-extra/xfce4-cpufreq-plugin-1.1.2 ~arm
 
+=media-video/smplayer-14.9.0.6994 ~arm
+
+=net-misc/iperf-3.0.11 ~arm
+
