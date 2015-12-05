@@ -24,28 +24,3 @@ sys-apps/iproute2 -iptables
 
 sys-boot/u-boot-mainline sunxi_board_cubieboard2
 
-# unneeded gnome deps
-gnome-base/gvfs -http
-
-# into make.conf
-x11-drivers/xf86-video-fbturbo mali-r3p2
-# media-libs/mesa gles1 gles2
-
-# required by virtual/libgudev-215-r3::gentoo[-systemd]
-# required by gnome-base/gvfs-1.22.4::gentoo[udev]
-# required by xfce-base/thunar-1.6.10::gentoo[xfce_plugins_trash,dbus]
-# required by xfce-base/xfdesktop-4.12.2::gentoo[thunar]
-# required by xfce-base/xfce4-meta-4.12::gentoo
-# required by xfce4-meta (argument)
-sys-fs/udev gudev
-
-# www-client/dillo
-x11-libs/fltk -xinerama pdf
-
-media-video/mplayer dts enca libass mad opengl osdmenu theora vdpau x264 xvid
-media-video/ffmpeg vdpau
-
-# required by smplayer[qt5] deps ...
-x11-libs/libxcb xkb
-dev-libs/libpcre pcre16
-

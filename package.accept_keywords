@@ -20,20 +20,3 @@ www-apps/piwigo **
 =dev-embedded/u-boot-tools-2015.04 ~arm
 =sys-boot/u-boot-mainline-2015.04 ~arm
 
-=x11-drivers/xf86-video-fbturbo-9999 **
-=x11-libs/libdri2-9999 **
-=x11-libs/sunxi-mali-9999 **
-=x11-libs/sunxi-libump-9999 **
-
-=x11-libs/libvdpau-0.9 **
-=x11-libs/libvdpau-sunxi-9999 **
-=x11-misc/vdpauinfo-0.9-r1 **
-
-=media-gfx/ristretto-0.8.0-r1 **
-=xfce-extra/xfce4-sensors-plugin-1.2.6 **
-=xfce-extra/xfce4-cpufreq-plugin-1.1.2 ~arm
-
-=media-video/smplayer-14.9.0.6994 ~arm
-
-=net-misc/iperf-3.0.11 ~arm
-
