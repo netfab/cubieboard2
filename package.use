@@ -1,4 +1,6 @@
 
+sys-apps/man-pages -nls
+
 #media-video/motion ffmpeg v4l
 #media-video/ffmpeg libv4l v4l
 
