@@ -20,3 +20,11 @@ www-apps/piwigo **
 =dev-embedded/u-boot-tools-2015.04 ~arm
 =sys-boot/u-boot-mainline-2015.04 ~arm
 
+=net-mail/postfix-logwatch-1.40.03 **
+
+# piwigo videoJS plugin
+=media-libs/libmediainfo-0.7.84 **
+=dev-libs/tinyxml2-2.2.0 ~arm
+=media-libs/libzen-0.4.33 **
+=media-video/mediainfo-0.7.84 **
+
